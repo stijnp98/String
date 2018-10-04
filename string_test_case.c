@@ -1,6 +1,7 @@
 #include <gtest/gtest.h>
 #include "string.h"
 
+//write testcases for all the c functions to test them out
 // exercise 1
 
 TEST(StringLength,MyTEst1)
